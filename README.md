@@ -1,3 +1,9 @@
 # termux-MCserver-helper
 这是一个适用于TERMUX的Minecraft JAVA开服脚本
 使用shell编写，支持一键安装java8以及创建启动脚本
+
+
+#如何使用？
+首先，打开termux
+输入pkg install wget如果已经安装wget可跳过
+然后输入wget
