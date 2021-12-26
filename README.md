@@ -6,5 +6,5 @@
 #如何使用？
 首先，打开termux
 输入pkg install wget如果已经安装wget可跳过
-然后输入wget https://raw.githubusercontent.com/XTxiaoting14332/termux-MCserver-helper/main/mc-server.sh
+然后输入wget https://hub.fastgit.org/XTxiaoting14332/releases/download/1.0.1/mc-server.sh
 下载完成后，输入sh mc-server.sh启动
