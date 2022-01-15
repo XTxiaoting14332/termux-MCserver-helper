@@ -30,7 +30,7 @@ then
 GUI=GUI版本
 com='命令行版本'
 cm='更换下载源'
-sl='语音'
+sl='语言'
 wait='请稍等...'
 done=完成.
 gv='正在获取最新版本信息'
@@ -160,6 +160,7 @@ mkdir ~/mcserver/j2
 mkdir ~/mcserver/lang
 mkdir ~/mcserver/SERVER
 mv mc-server /usr/bin/
+mv mc-server /data/data/com.termux/files/usr/bin
 mv ${dl}.lang ~/mcserver/lang
 chmod +x /usr/bin/mc-server
 chmod +x /data/data/com.termux/files/usr/bin/mc-server
