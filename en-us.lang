@@ -1,0 +1,57 @@
+#Termux-MCserver-helper Language package
+#language:en-us
+#by XTxiaoting14332
+wait='Please wait'
+langf='language file'
+upload=uploading...
+fin=Done
+hit='hitokoto'
+iproot='Install proot...'
+exit=exit
+online='online mode'
+maxp='server max players'
+language=language-pack
+getl='Download language package from github'
+done=Done.
+option=OPTIONS
+nolog4j='I do not need this'
+startser='Starting server...'
+acceula='When the server stop,It will accept EULA.'
+getjava='Get JAVA from github...'
+eula='Accepting eula'
+name=server-name
+serf=server-jar-file
+a="Minecraf 1.7-1.11"
+b="Minecraft 1.12-1.16"
+c="Minecraft 1.17-?"
+un17='If your server version is under 1.7,you do not need this'
+num=number
+inslang='Install a new Language.'
+insjava='Install Java8'
+noser='Server not found.'
+creser='Add a new server'
+lang=language
+setlang='Set language'
+help='Get help'
+error='Unknown Option'
+listlang='Get list of your language'
+rmser='Remove a server'
+server=server
+listser='Get list of your server'
+ver='version infomation'
+staser='Start youserver'
+nojl12='You do not have java log4j for Minecraft1.12-1.16.Intall now'
+nojl17='You do not have java log4j for Minecraft1.7-1.11.Install now'
+mir=mirror
+ei='Edit your server'
+yi='hitokoto[ON/OFF]'
+yifr='Change the way to get hitokoto'
+getl='Get local hitokoto'
+cham='Change github mirror'
+ream=README.md
+readme='
+Hello!I am XTxiaoting14332!
+This is a Minecraft JAVA Server Helper for Android Termux or other Linux.
+Well,I am not good at English.So when I making this language pack,I sometime use Google Translate to translate words.
+I am so happy that you can download and install this software.
+Hope you can support me.Thank you at all!'

@@ -1,0 +1,54 @@
+#Termux-MCserver-helper Language package
+#language:zh-hans
+#by XTxiaoting14332 & C X K
+#translate by 2096779623
+wait='请等待'
+langf=语言包文件
+upload=正在导入...
+fin=完成
+hit='一言'
+iproot='安装proot...'
+exit=退出
+online='在线模式'
+maxp='服务器最大玩家'
+language=语言包
+getl='从gayhub下载语言包'
+done=完成.
+option=选项
+nolog4j='我不需要log4j补丁'
+startser='启动服务器...'
+acceula='当服务器停止时,你需要同意用户协议.'
+getjava='从github获取Java...'
+eula='同意mojang的EULA协议...'
+name=服务器名称
+serf=服务端jar文件路径
+a="Minecraft 1.7-1.11"
+b="Minecraft 1.12-1.16"
+c="Minecraft 1.17-?"
+un17='如果我的世界版本小于1.7,你不需要这个'
+num=选项
+inslang='安装一个新语言.'
+insjava='安装Java8'
+noser='找不到服务器.'
+creser='添加一个新语言'
+lang=语言
+setlang='设置语言'
+help='获取帮助'
+error='为止选项'
+listlang='获取语言列表'
+rmser='移除一个服务器'
+server=服务器
+listser='获取服务器消息'
+ver='版本信息'
+staser='启动你的服务器'
+nojl12='检测到您未安装用于minecraft 1.12-1.16的log4j补丁.'
+nojl17='检测到您未安装用于minecraft 11.7-1.11的log4j补丁.'
+mir=镜像
+ei='编辑你的服务器'
+yi='一言[on/off]'
+yifr='变更一言选项'
+getl='获取本地一言'
+cham='更改github镜像源'
+ream=README.md
+readme='
+你好！我是XTxiaoting14332.这是一个用于Android termux或者其他linux的Minecraft java服务器开服助手，本脚本完全开源，虽然比不上其他大佬的脚本就是了- =͟͟͞͞ =͟͟͞͞ ﾍ( ´Д`)ﾉ，All in all,感谢你的支持！'
