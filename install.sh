@@ -164,6 +164,8 @@ mv mc-server /data/data/com.termux/files/usr/bin
 mv ${dl}.lang ~/mcserver/lang
 chmod +x /usr/bin/mc-server
 chmod +x /data/data/com.termux/files/usr/bin/mc-server
+sed -i 39clang=~/mcserver/lang/${dl}.lang /usr/bin/mc-server
+sed -i 39clang=~/mcserver/lang/${dl}.lang /data/data/com.termux/files/usr/bin/mc-server
 echo $done
 mc-server -test
 echo $tipc
