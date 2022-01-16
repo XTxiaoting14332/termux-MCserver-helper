@@ -158,7 +158,7 @@ echo $wait
 sleep 0.8
 echo $getn
 wget $mir/XTxiaoting14332/Termux-MCserver-helper-B/releases/download/${l}/mc-server
-wget $raw/XTxiaoting14332/Termux-MCserver-helper/lang/${dl}.lang
+wget $raw/XTxiaoting14332/Termux-MCserver-helper/main/${dl}.lang
 rm ver
 echo $ins
 sleep 1
