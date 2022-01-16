@@ -7,7 +7,7 @@
 mir=hub.fastgit.org
 #oh~
 #languages
-lang=no
+lang=1
 raw=raw.fastgit.org
 if [ $lang = 1 ]
 then
@@ -148,7 +148,7 @@ echo $wait
 sleep 0.8
 echo $getn
 wget $mir/XTxiaoting14332/Termux-MCserver-helper-B/releases/download/${l}/mc-server
-wget https://raw.githubusercontent.com/XTxiaoting14332/termux-MCserver-helper/main/${dl}.lang
+wget https://$miraw/XTxiaoting14332/termux-MCserver-helper/main/${dl}.lang
 sed -i 
 rm ver
 echo $ins
