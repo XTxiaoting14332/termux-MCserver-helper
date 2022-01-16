@@ -169,6 +169,7 @@ mkdir ~/mcserver/SERVER
 mv mc-server ${file}/
 mv ${dl}.lang ~/mcserver/lang
 chmod +x ${file}/mc-server
+sed -i 39clang=~/mcserver/lang/${dl}.lang ${file}/mc-server
 echo $done
 mc-server -test
 echo $tipc
