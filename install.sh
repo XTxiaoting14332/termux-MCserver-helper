@@ -61,9 +61,11 @@ read -p select: la
 case $la in
 1)
 sed -i 10clang=1 install.sh 
+sh install.sh
 ;;
 2)
 sed -i 10clang=2 install.sh
+sh install.sh
 ;;
 *)
 echo Unknown option.
