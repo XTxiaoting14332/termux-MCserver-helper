@@ -4,11 +4,11 @@
 #Date2021.12.30T19:33
 #Installer
 #Let us start!
-mir=hub.fastgit.org
+mir=github.com.cnpmjs.org
 #oh~
 #languages
 lang=no
-raw=raw.fastgit.org
+raw=github.com.cnpmjs.org
 #file system
 if [ -d /data/data/com.termux/files/usr/bin/ ]
 then
@@ -181,7 +181,7 @@ echo =================
 echo
 echo --[1]github.com--
 echo
-echo --[2]hub.fastgit.org--
+echo --[2]github.com.cnpmjs.org--
 echo
 echo =================
 read -p $select ms
@@ -191,8 +191,8 @@ sed -i 7cmir=github.com install.sh
 sed -i 11craw=raw.github.com install.sh
 ;;
 2)
-sed -i 7cmir=hub.fastgit.org install.sh
-sed -i 11craw=raw.fastgit.org install.sh
+sed -i 7cmir=github.com.cnpmjs.org install.sh
+sed -i 11craw=raw.github.com.cnpmjs.org install.sh
 ;;
 esac
 ;;
