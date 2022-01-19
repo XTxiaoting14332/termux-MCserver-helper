@@ -4,7 +4,7 @@
 #Date2021.12.30T19:33
 #Installer
 #Let us start!
-mir=github.com.cnpmjs.org
+mir=github.2096779623.workers.dev
 #oh~
 #languages
 lang=no
