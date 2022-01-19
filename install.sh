@@ -158,7 +158,7 @@ echo $wait
 sleep 0.8
 echo $getn
 wget $mir/XTxiaoting14332/Termux-MCserver-helper-B/releases/download/${l}/mc-server
-wget $raw/XTxiaoting14332/Termux-MCserver-helper/main/${dl}.lang
+wget $mir/XTxiaoting14332/termux-MCserver-helper/raw/main/${dl}.lang
 rm ver
 echo $ins
 sleep 1
@@ -181,18 +181,18 @@ echo =================
 echo
 echo --[1]github.com--
 echo
-echo --[2]github.com.cnpmjs.org--
+echo --[2]github.2096779623.workers.dev--
 echo
 echo =================
 read -p $select ms
 case $ms in
 1)
 sed -i 7cmir=github.com install.sh
-sed -i 11craw=raw.github.com install.sh
+sed -i 11craw=github.com install.sh
 ;;
 2)
-sed -i 7cmir=github.com.cnpmjs.org install.sh
-sed -i 11craw=raw.github.com.cnpmjs.org install.sh
+sed -i 7cmir=github.2096779623.workers.dev install.sh
+sed -i 11craw=github.2096779623.workers.dev install.sh
 ;;
 esac
 ;;
