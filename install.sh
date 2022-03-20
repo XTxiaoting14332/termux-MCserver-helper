@@ -157,7 +157,7 @@ cm
 echo $wait
 sleep 0.8
 echo $getn
-wget $mir/XTxiaoting14332/Termux-MCserver-helper-B/releases/download/${l}/mc-server
+wget $mir/XTxiaoting14332/xtmcsh/releases/download/${l}/mc-server
 wget $mir/XTxiaoting14332/termux-MCserver-helper/raw/main/${dl}.lang
 rm ver
 echo $ins
