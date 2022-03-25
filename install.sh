@@ -84,7 +84,7 @@ sed -i 's/"tag_name":/ /' ver && sed -i 's/tag_name ://' ver && sed -i 's/[[:spa
 l=$(sed -n 28p ver)
 }
 cm(){
-curl -sL api.github.com/repos/XTxiaoting14332/Termux-MCserver-helper-B/releases/latest > ver
+curl -sL api.github.com/repos/XTxiaoting14332/xtmcsh/releases/latest > ver
 sed -i 's/"name":/The latest version:/' ver && sed -i 's/,/ /' ver && sed -i 's/"/ /' ver && sed -i 's/"/ /' ver
 sed -n 30p ver
 sed -i 's/"tag_name":/ /' ver && sed -i 's/tag_name ://' ver && sed -i 's/[[:space:]]//g' ver && sed -i 's/"//g' ver
