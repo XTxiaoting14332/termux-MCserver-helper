@@ -4,7 +4,7 @@
 #Date2021.12.30T19:33
 #Installer
 #Let us start!
-mir=github.2096779623.workers.dev
+mir=https://github.utermux.eu.org
 #oh~
 #languages
 lang=no
@@ -181,7 +181,7 @@ echo =================
 echo
 echo --[1]github.com--
 echo
-echo --[2]github.2096779623.workers.dev--
+echo --[2]github.utermux.eu.org--
 echo
 echo =================
 read -p $select ms
@@ -191,8 +191,8 @@ sed -i 7cmir=github.com install.sh
 sed -i 11craw=github.com install.sh
 ;;
 2)
-sed -i 7cmir=github.2096779623.workers.dev install.sh
-sed -i 11craw=github.2096779623.workers.dev install.sh
+sed -i 7cmir=github.utermux.eu.org install.sh
+sed -i 11craw=github.utermux.eu.org install.sh
 ;;
 esac
 ;;
